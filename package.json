@@ -1,6 +1,3 @@
-// 20210729144223
-// https://raw.githubusercontent.com/song940/node-escpos/v3/packages/bluetooth/package.json
-
 {
   "name": "escpos-bluetooth",
   "version": "3.0.0-alpha.2",
